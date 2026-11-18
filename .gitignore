@@ -22,3 +22,10 @@ Thumbs.db
 *.swp
 
 .eslintcache
+
+# Environment variables & secrets (added by GitHub Guardian)
+*.env
+!.env.sample
+.envrc
+.venv/
+venv/
